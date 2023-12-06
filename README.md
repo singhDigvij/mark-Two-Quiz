@@ -1,2 +1,2 @@
-# mark-Two-Quiz
-A CLI app based on NodeJS constructed to test the iq of the user!!!
+# mark two quiz
+A CLI app based on NodeJS constructed to test your IQ!!!

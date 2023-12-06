@@ -50,12 +50,12 @@ console.log("High Scorers🏅")
 const highScorers = [
   {
     name: "Aman👨",
-    score: 9
+    score: 5
 
   },
   {
     name: "Jessi👩",
-    score: 8
+    score: 3
   }
 
 ]
