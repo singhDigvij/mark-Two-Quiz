@@ -28,9 +28,6 @@ const questions = [{
   question: "What is the name of indigenously built aircraft carrier for Indian Navy ?",
   answer: "vikrant"
 }, {
-  question: "What is the name of indigenously built fighter aircraft for Indian Air Force ?",
-  answer: "tejas"
-}, {
   question: "In which country the biggest cricket stadium of the world  located ?",
   answer: "india"
 }, {
@@ -39,19 +36,7 @@ const questions = [{
 }, {
   question: "Total number of lok sabha seats 545 or 546 ?",
   answer: "545"
-}, {
-  question: "National tree of India banyan or peepal ?",
-  answer: "banyan"
-}, {
-  question: "100% Organic state of the world Assam or Sikkim ? ",
-  answer: "sikkim"
-}, {
-  question: "Name of India's oldest city ?",
-  answer: "varanasi"
-}, {
-  question: "River ganga originates from which state ?",
-  answer: "uttarakhand"
-},]
+} ]
 
 for (let i = 0; i < questions.length; i++) {
   play(questions[i].question, questions[i].answer)
